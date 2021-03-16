@@ -1,0 +1,7 @@
+{
+  "name": "Florendo_Act2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
